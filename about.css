@@ -23,7 +23,7 @@ a:hover{
 }
 
 
-
+/* image */
 .wrap{
     margin: 10px auto;
     width: 250px;
@@ -37,6 +37,9 @@ a:hover{
     
     border-radius: 20px;
     text-align: center;}
+
+
+   /* hovering */ 
 
     .card{
         width: 240px;
@@ -78,8 +81,7 @@ a:hover{
     }
 
 
-
-
+/* Navigation bar */
 
 .wrapper{
     margin: 0 auto;
@@ -128,7 +130,7 @@ a:hover{
     border-width: 5px;
 }
 
-
+/* image */
 .packet img{
     margin: o auto;
     width: 300px;
@@ -141,6 +143,12 @@ a:hover{
     margin: 0 auto;
     text-align: center;
 }
+
+
+
+/* google fonts */
+
+
 .contain{
     width: 800px;
     border: 2px ridge black;
@@ -180,7 +188,7 @@ a:hover{
     color: goldenrod;
 }
 
-
+/* About pw skills */
 
 .repository{
     width: 1100px;
@@ -208,7 +216,7 @@ a:hover{
 }
 
 
-
+/* list */
 .list{
     border: 2px solid black;
     width: 400px;
